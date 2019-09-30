@@ -12,29 +12,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FixDebugFive1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive1.java">
+      <file leaf-file-name="FixDebugSix1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FixDebugFive2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive2.java">
+      <file leaf-file-name="FixDebugSix2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="374">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FixDebugFive3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive3.java">
+      <file leaf-file-name="FixDebugSix3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FIxDebugSix4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignments/FIxDebugSix4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -74,21 +83,24 @@
         <option value="$PROJECT_DIR$/src/assignments/FixDebugFive1.java" />
         <option value="$PROJECT_DIR$/src/assignments/FixDebugFive2.java" />
         <option value="$PROJECT_DIR$/src/assignments/FixDebugFive3.java" />
+        <option value="$PROJECT_DIR$/src/assignments/FixDebugSix2.java" />
+        <option value="$PROJECT_DIR$/src/assignments/FixDebugSix1.java" />
+        <option value="$PROJECT_DIR$/src/assignments/FixDebugSix3.java" />
+        <option value="$PROJECT_DIR$/src/assignments/FIxDebugSix4.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-35" />
-    <option name="y" value="-17" />
-    <option name="width" value="1486" />
-    <option name="height" value="860" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-137" />
+    <option name="y" value="-18" />
+    <option name="width" value="1088" />
+    <option name="height" value="695" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,9 +125,11 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -130,9 +144,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.rockPaperScissors2">
-    <configuration name="RockPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.RockPaper" />
+  <component name="RunManager" selected="Application.FIxDebugSix4">
+    <configuration name="FIxDebugSix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.FIxDebugSix4" />
       <module name="chapter-6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -142,12 +156,35 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excercises.RockPaperScissors" />
+    <configuration name="FixDebugSix1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.FixDebugSix1" />
+      <module name="chapter-6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Excercises.*" />
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FixDebugSix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.FixDebugSix2" />
+      <module name="chapter-6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FixDebugSix3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.FixDebugSix3" />
+      <module name="chapter-6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,30 +192,8 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="randomGuess3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.randomGuess3" />
-      <module name="chapter-6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="rockPaperScissors2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.rockPaperScissors2" />
-      <module name="chapter-6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="testScoreStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.testScoreStats" />
       <module name="chapter-6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -227,19 +242,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.testScoreStats" />
-      <item itemvalue="Application.randomGuess3" />
       <item itemvalue="Application.rockPaperScissors2" />
-      <item itemvalue="Application.RockPaperScissors" />
-      <item itemvalue="Application.RockPaper" />
+      <item itemvalue="Application.FixDebugSix1" />
+      <item itemvalue="Application.FixDebugSix2" />
+      <item itemvalue="Application.FixDebugSix3" />
+      <item itemvalue="Application.FIxDebugSix4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FIxDebugSix4" />
+        <item itemvalue="Application.FixDebugSix3" />
+        <item itemvalue="Application.FixDebugSix2" />
+        <item itemvalue="Application.FixDebugSix1" />
         <item itemvalue="Application.rockPaperScissors2" />
-        <item itemvalue="Application.testScoreStats" />
-        <item itemvalue="Application.RockPaper" />
-        <item itemvalue="Application.RockPaperScissors" />
-        <item itemvalue="Application.randomGuess3" />
       </list>
     </recent_temporary>
   </component>
@@ -257,22 +272,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298292" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2562418" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2562418" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11597222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13819444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -285,27 +300,42 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298292" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive1.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive2.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/FIxDebugSix4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive1.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive2.java" />
     <entry file="file://$PROJECT_DIR$/src/assignments/evenEntryLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -549,24 +579,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive1.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive1.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive2.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive3.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive2.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugFive3.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugSix3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/FIxDebugSix4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
         </state>
       </provider>
     </entry>
